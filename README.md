@@ -1,4 +1,4 @@
-# React-Native-Tryout-01
+# Expo React-Native-Tryout-01
 
 
 
