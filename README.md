@@ -10,3 +10,7 @@
 
 
 <img src="Assets/03.png" alt="Third Image" width="300"/>
+
+### Flex direction
+
+<img src="Assets/04.png" alt="Fourth Image" width="300"/>
