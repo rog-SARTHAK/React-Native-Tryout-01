@@ -14,3 +14,7 @@
 ### Flex direction
 
 <img src="Assets/04.png" alt="Fourth Image" width="300"/>
+
+### Flex alignment
+
+<img src="Assets/05.png" alt="Fifth Image" width="300"/>
