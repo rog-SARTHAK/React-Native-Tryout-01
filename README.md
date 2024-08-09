@@ -18,3 +18,7 @@
 ### Flex alignment
 
 <img src="Assets/05.png" alt="Fifth Image" width="300"/>
+
+### Flex Wrap and align Content
+
+<img src="Assets/06.png" alt="Sixth Image" width="300"/>
