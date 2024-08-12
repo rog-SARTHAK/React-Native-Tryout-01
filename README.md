@@ -22,3 +22,7 @@
 ### Flex Wrap and align Content
 
 <img src="Assets/06.png" alt="Sixth Image" width="300"/>
+
+### Absolute and relative positioning
+
+<img src="Assets/07.png" alt="Seventh Image" width="300"/>
